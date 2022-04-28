@@ -9,7 +9,7 @@ public class TestBase {
     private String mainupdate;
 	
 	
-	private String fetch;
+	private String fetchideaUpdate;
 
 
 
