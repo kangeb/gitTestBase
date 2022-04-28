@@ -4,7 +4,10 @@ public class TestBase {
 
     private String age;
 
-    private String devUpdate;
+    private String devUpdate2;
+
     private String mainupdate;
+
+
 
 }
