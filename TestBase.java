@@ -9,5 +9,6 @@ public class TestBase {
     private String mainupdate;
 
 
+    private String devUpdate;
 
 }
