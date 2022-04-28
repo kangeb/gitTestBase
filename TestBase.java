@@ -4,4 +4,6 @@ public class TestBase {
 
     private String age;
 
+    private String devAdd;
+
 }
