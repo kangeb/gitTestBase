@@ -7,9 +7,7 @@ public class TestBase {
     private String devUpdate2;
 
     private String mainupdate;
-	
-	
-	private String fetchideaUpdate;
+
 
 
 
